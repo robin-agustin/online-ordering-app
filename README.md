@@ -1,5 +1,5 @@
 # online-ordering-app
-https://dummy-app-59bf5.firebaseapp.com/ &lt;&lt;&lt; LIVE
+https://dummy-app-59bf5.firebaseapp.com/ &lt; DEMO
 
 Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine
 ReactJS - A JavaScript library for building user interfaces
